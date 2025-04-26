@@ -11,7 +11,7 @@ export default function App() {
         setMyFavoriteThings(
             prevFavThings => [
                 ...prevFavThings,
-                "Test"
+                allFavoriteThings[prevFavThings.length]
             ]
         )
     }
