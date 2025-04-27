@@ -15,7 +15,7 @@ function App() {
       <form action={signUp}>
 
         <label htmlFor="email">Email:</label>
-        <input id="email" defaultValue="name@mail.com" type="email" name="email" placeholder="joe@schmoe.com" />
+        <input id="email" defaultValue="name@mail.com" type="email" name="email" placeholder="name@mail.com" />
 
         <label htmlFor="password">Password:</label>
         <input id="password" defaultValue="password123" type="password" name="password" />
