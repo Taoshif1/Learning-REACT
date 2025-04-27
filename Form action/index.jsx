@@ -3,11 +3,6 @@ import ReactDOM from 'react-dom/client';
 
 function App() {
   
-  /**
-   * Challenge: get the password from the form too and log
-   * it to the console to be sure it came in correctly.
-   */
-  
   function signUp(formData) {
     const email = formData.get("email")
     const password = formData.get("password")
