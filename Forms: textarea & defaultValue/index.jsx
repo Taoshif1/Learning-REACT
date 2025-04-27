@@ -22,10 +22,7 @@ function App() {
 
         <label htmlFor="description">Description:</label>
         <textarea id="description" name="description"></textarea>
-        
-        
-
-        
+   
         <button>Submit</button>
 
       </form>
