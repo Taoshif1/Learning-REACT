@@ -64,7 +64,7 @@ Each folder below contains **React concepts** explained through code, with a ded
 ---
 
 ## 🛠️ How to Run
-Projects in this repository were created using react-. To run them locally:
+Projects in this repository were created using react. To run them locally:
 
 ```
 Navigate into a specific project folder
@@ -82,5 +82,4 @@ npm start
 ## ✍️ Author
 
 **Gazi Taoshif**  
-🚀 B.Sc. in Computer Science & Engineering
-🇧🇩 Based in Dhaka, Bangladesh  
+🚀 B.Sc. in Computer Science & Engineering 
