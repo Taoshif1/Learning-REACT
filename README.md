@@ -64,16 +64,16 @@ Each folder below contains **React concepts** explained through code, with a ded
 ---
 
 🛠️ How to Run
-Most projects in this repository were created using create-react-app or a similar setup. To run them locally:
+Projects in this repository were created using react-. To run them locally:
 
 ```
-# Navigate into a specific project folder
+Navigate into a specific project folder
 cd "Form action"
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Start the development server
+Start the development server
 npm start
 ```
 
