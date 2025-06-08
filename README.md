@@ -1,5 +1,5 @@
 # Learning REACT ⚛️🔥
-[![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20(for%20now!)-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
+[![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
 
 Welcome to my **React Journey** — this repo documents my personal learning progress, practice files and small experiments while learning React.js. From forms to components, state management and styling — this is where it all started as a part of my MERN Stack journey.
 
