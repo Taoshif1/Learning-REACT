@@ -63,7 +63,7 @@ Each folder below contains **React concepts** explained through code, with a ded
 
 ---
 
-🛠️ How to Run
+## 🛠️ How to Run
 Projects in this repository were created using react-. To run them locally:
 
 ```
